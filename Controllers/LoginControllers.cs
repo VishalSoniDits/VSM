@@ -2,7 +2,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using VSM.Models;
 using VSM.Repository;
-
+//test
 namespace VSM.Controllers
 {
     public class LoginController : ControllerBase
