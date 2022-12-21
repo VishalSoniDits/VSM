@@ -22,5 +22,6 @@ namespace VSM
                 {
                     webBuilder.UseStartup<Startup>();
                 });
+                //---------------
     }
 }
